@@ -5,9 +5,9 @@ Points:
 
     Design:
         Points Possible: 50
-        Points Obtained: 
+        Points Obtained: 45
 
-Total Points: 50 / 100
+Total Points: 95 / 100
 
 Comments: >
     None
